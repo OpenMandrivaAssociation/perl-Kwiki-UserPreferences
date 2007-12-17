@@ -16,7 +16,6 @@ BuildRequires:	perl-devel
 %endif
 BuildRequires:	perl(Kwiki)
 BuildArch:	noarch
-BuildRoot:	%{_tmppath}/%{name}-%{version}
 
 %description
 Enable the setting of various User Preferences.
